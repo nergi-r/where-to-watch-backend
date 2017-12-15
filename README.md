@@ -6,5 +6,7 @@ A Simple React-Redux Application that shows list of now playing movies.
 Demo: https://wheretowatch.herokuapp.com/
 
 Github:
+
 https://github.com/nergi-r/where-to-watch
+
 https://github.com/nergi-r/where-to-watch-backend
